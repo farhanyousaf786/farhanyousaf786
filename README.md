@@ -2,7 +2,9 @@
 <h1 style="color: #5e9ca0;">Hi There, I am Farhan Yousaf.</h1>
 <p>&nbsp;</p>
 <ul style="list-style-type: circle;">
-<li style="text-align: center;"><strong>Learning in Flutter with Firebase and Google APIs.</strong></li>
+<li style="text-align: center;">
+<h3><strong>Learning in Flutter with Firebase and Google APIs.</strong></h3>
+</li>
 </ul>
 <p>&nbsp;</p>
 <ul>
