@@ -3,7 +3,7 @@
 <p>&nbsp;</p>
 <ul style="list-style-type: circle;">
 <li style="text-align: center;">
-<h3><strong>Learning in Flutter with Firebase and Google APIs.</strong></h3>
+<h3><strong>Currently, Learning in Flutter with Firebase and Google APIs.</strong></h3>
 </li>
 </ul>
 <p>&nbsp;</p>
