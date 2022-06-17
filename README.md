@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hi There, I am Farhan Yousaf.
 I am a full-time full-stack App developer 👨‍💻 working remotely since 2019🚀</div>  
   
