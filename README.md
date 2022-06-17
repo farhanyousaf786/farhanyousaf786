@@ -102,6 +102,4 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 <br/>  
 <br/>  
 <br/>  
-
-<div align="center"></div>
-<br />
+<br/>
