@@ -17,7 +17,7 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 <br/>  
 
 
-## My Skill Set  
+## Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -71,6 +71,9 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 
 <br/>  
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=farhanyousaf786&&style=flat-square" align="center" />
+</div>  
 
 ## Connect with me  
 <div align="center">
@@ -95,21 +98,14 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=farhanyousaf786&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
+<br/>   
 
 <br/>  
 
-  
-
+ 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=farhanyousaf786&&style=flat-square" align="center" />
-</div>  
+
   
 
 <br/>  
