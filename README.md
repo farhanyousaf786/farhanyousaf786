@@ -116,6 +116,3 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
