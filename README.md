@@ -2,7 +2,7 @@
 I am a full-time full-stack App developer 👨‍💻 working remotely since 2019🚀</div>  
   
 
-- 🔭 I’m currently working on [Switch App](https://switchApp.live)  
+- 🔭 I’m currently working on [Switch App](http://switchapp.live/)  
   
 
 - 📚 I’m currently learning Python - A.I  
@@ -17,7 +17,7 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 
 ## Favourite Project
 
-  [Switch App](https://switchApp.live) is one of my favourite project. It is basically a 
+  [Switch App](http://switchapp.live/) is one of my favourite project. It is basically a 
   socail media platform. The key thing of this platoform is that 
   it is for Memers and Memes. We are in Meme era and this is one of the best market of advertising. Projects's goal is to
   genrate Meme and spread it throughout the other social media platform.
