@@ -83,7 +83,7 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 <a href="https://twitter.com/laasylahoo" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/farhanyousaf1996" target="_blank">
+<a href="https://www.linkedin.com/in/mfarhanyousaf/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/farhanyousaf1996" target="_blank">
@@ -99,15 +99,8 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=farhanyousaf786&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>   
-
 <br/>  
-
- 
 <br/>  
-
-
-  
-
 <br/>  
 
 <div align="center"></div>
