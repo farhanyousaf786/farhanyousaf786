@@ -8,19 +8,12 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 - 📚 I’m currently learning Python - A.I  
   
 
-- ❓ Ask me about anything related to [Switch App](https://github.com/farhanyousaf786/switch)  
+- ❓ Ask me about anything related to Flutter -Dart.  
   
 
 - ⚡ Fun fact: I use tabs over spaces :)  
   
 <br/>  
-
-## Favourite Project
-
-  [Switch App](http://switchapp.live/) is one of my favourite project. It is basically a 
-  socail media platform. The key thing of this platoform is that 
-  it is for Memers and Memes. We are in Meme era and this is one of the best market of advertising. Projects's goal is to
-  genrate Meme and spread it throughout the other social media platform.
   
 
 ## Skill Set  
@@ -75,6 +68,12 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 
 <br/>  
 
+## Favourite Project
+
+  [Switch App](http://switchapp.live/) is one of my favourite project. It is basically a 
+  socail media platform. The key thing of this platoform is that 
+  it is for Memers and Memes. We are in Meme era and this is one of the best market of advertising. Projects's goal is to
+  genrate Meme and spread it throughout the other social media platform.
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=farhanyousaf786&&style=flat-square" align="center" />
 </div>  
