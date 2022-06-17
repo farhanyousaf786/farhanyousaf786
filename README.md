@@ -2,7 +2,7 @@
 I am a full-time full-stack App developer 👨‍💻 working remotely since 2019🚀</div>  
   
 
-- 🔭 I’m currently working on [Switch App](https://github.com/farhanyousaf786/switch)  
+- 🔭 I’m currently working on [Switch App](https://switchApp.live)  
   
 
 - 📚 I’m currently learning Python - A.I  
@@ -13,14 +13,18 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 
 - ⚡ Fun fact: I use tabs over spaces :)  
   
-
 <br/>  
 
+## Favourite Project
+
+  [Switch App](https://switchApp.live) is one of my favourite project. It is basically a 
+  socail media platform. The key thing of this platoform is that 
+  it is for Memers and Memes. We are in Meme era and this is one of the best market of advertising. Projects's goal is to
+  genrate Meme and spread it throughout the other social media platform.
+  
 
 ## Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
+<tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -67,7 +71,7 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr> 
 
 <br/>  
 
