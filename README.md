@@ -5,11 +5,7 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 - 🔭 I’m currently working on [Switch App](http://switchapp.live/)  
   
 
-- 📚 I’m currently learning Python - A.I  
-  
-
-- ❓ Ask me about anything related to Flutter -Dart.  
-  
+- 📚 I’m currently learning Python - A.I    
 
 - ⚡ Fun fact: I use tabs over spaces :)  
   
