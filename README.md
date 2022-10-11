@@ -6,7 +6,6 @@ Hi, I am a full-time full-stack App developer. Working remotely since 2019 🚀.
 
 - ⚡ Fun fact: I use tabs over spaces :)  
   
-
 ## Skill Set  
   
   
@@ -79,18 +78,6 @@ Hi, I am a full-time full-stack App developer. Working remotely since 2019 🚀.
 </br>
 <img src="https://komarev.com/ghpvc/?username=farhanyousaf786&&style=flat-square" align="center" />
 </br>
-
-
-
-## Favourite Project
-  [Switch App](https://github.com/farhanyousaf786/switch-app) is one of my favourite project. It is basically a 
-  socail media platform. The key thing of this platoform is that 
-  it is for Memers and Memes. We are in Meme era and this is one of the best market of advertising. Projects's goal is to
-  genrate Meme and spread it throughout the other social media platform.
-<div align="center">
-</div>  
-
-
 ## Connect with me  
 <div align="center">
   
@@ -108,6 +95,15 @@ Hi, I am a full-time full-stack App developer. Working remotely since 2019 🚀.
 </div>  
  
 <br/>  
+
+
+## Favourite Project
+  [Switch App](https://github.com/farhanyousaf786/switch-app) is one of my favourite project. It is basically a 
+  socail media platform. The key thing of this platoform is that 
+  it is for Memers and Memes. We are in Meme era and this is one of the best market of advertising. Projects's goal is to
+  genrate Meme and spread it throughout the other social media platform.
+<div align="center">
+</div>  
 
 <br/>   
 <br/>  
