@@ -76,18 +76,20 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=farhanyousaf786&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
 
+</br>
 <img src="https://komarev.com/ghpvc/?username=farhanyousaf786&&style=flat-square" align="center" />
+</br>
+
 
 
 ## Favourite Project
-
   [Switch App](https://github.com/farhanyousaf786/switch-app) is one of my favourite project. It is basically a 
   socail media platform. The key thing of this platoform is that 
   it is for Memers and Memes. We are in Meme era and this is one of the best market of advertising. Projects's goal is to
   genrate Meme and spread it throughout the other social media platform.
 <div align="center">
-
 </div>  
+
 
 ## Connect with me  
 <div align="center">
