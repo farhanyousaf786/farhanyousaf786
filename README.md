@@ -14,7 +14,22 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 
 ## Skill Set  
 <tr><td valign="top" width="33%">
+  
+  
+### Database  
+<div align="center">
+  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://imgur.com/HBnEzwe.png" alt="MySQL" height="50" />
+  
+
+</div>
+
+</td><td valign="top" width="33%">
 ### Frontend  
 <div align="center">
   
