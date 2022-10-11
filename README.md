@@ -36,8 +36,6 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
   
   
 ### <div align="left">Hosting & Database:</div>
-
-  
 <div align="center">
   
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -54,8 +52,10 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 </div>
 
 <br/>  
-### <div align="left">Languages:</div>
   
+### <div align="left">Languages:</div>
+<div align="center">
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
