@@ -15,7 +15,7 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 ## Skill Set  
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top">
   
   
 ### Platforms, Frameworks, and Libraries
@@ -32,7 +32,7 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top">
   
   
   
