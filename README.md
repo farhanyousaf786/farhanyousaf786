@@ -17,7 +17,7 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 
   
   
-### <center>Platforms, Frameworks, and Libraries</center>
+### Platforms, Frameworks, and Libraries
   
 <div align="center">
   
@@ -34,7 +34,7 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 </td><td valign="top">
   
   
-### Hosting & Database
+  ### <div align="left">Hosting & Database</div>
 
   
 <div align="center">
