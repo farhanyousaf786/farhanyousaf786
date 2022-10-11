@@ -15,7 +15,6 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 ## Skill Set  
 
 
-</td><td valign="top">
   
   
 ### Platforms, Frameworks, and Libraries
