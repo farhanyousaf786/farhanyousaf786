@@ -55,7 +55,7 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 </td><td valign="top">
   
   
-### Database & Hosting
+<div style="text-align: right"> Database and Hosting</div>
 
   
 <div align="center">
