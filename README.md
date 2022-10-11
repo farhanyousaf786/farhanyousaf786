@@ -36,7 +36,10 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 </td><td valign="top" width="33%">
   
   
-### Database & Hosting 
+  
+### Database & Hosting
+
+  
 <div align="center">
   
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
