@@ -1,5 +1,5 @@
+Hi, I am a full-time full-stack App developer 👨‍💻 working remotely since 2019 🚀.
 ### Being a creative person I prefer the Software Development Industry, so I can utilize my creativity to develop software to resolve real world problems.
-I am a full-time full-stack App developer 👨‍💻 working remotely since 2019🚀</div>  
   
 
 - 🔭 I’m currently working on [Switch App](https://github.com/farhanyousaf786/switch-app)    
