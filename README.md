@@ -6,8 +6,6 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 
 - ⚡ Fun fact: I use tabs over spaces :)  
   
-<br/>  
-  
 
 ## Skill Set  
   
