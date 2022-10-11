@@ -2,10 +2,7 @@
 I am a full-time full-stack App developer 👨‍💻 working remotely since 2019🚀</div>  
   
 
-- 🔭 I’m currently working on [Switch App](http://switchapp.live/)  
-  
-
-- 📚 I’m currently learning Python - A.I    
+- 🔭 I’m currently working on [Switch App](https://github.com/farhanyousaf786/switch-app)    
 
 - ⚡ Fun fact: I use tabs over spaces :)  
   
