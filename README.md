@@ -30,7 +30,10 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 </div>
 
 </td><td valign="top" width="33%">
-### Frontend  
+  
+  
+### Frontend
+  
 <div align="center">
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
