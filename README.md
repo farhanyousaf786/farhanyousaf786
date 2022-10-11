@@ -19,7 +19,7 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
   
 ### Platforms, Frameworks, and Libraries
   
-<div align="center", padding_top=20px>
+<div align="center">
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -32,6 +32,8 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 
 
 </td><td valign="top">
+<br/>  
+  
   
 ### <div align="left">Hosting & Database</div>
 
@@ -49,11 +51,9 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-  
-
 </div>
 
-
+<br/>  
   ### <div align="left">Languages</div>
   
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
