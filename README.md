@@ -24,7 +24,7 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://imgur.com/HBnEzwe.png" alt="MySQL" height="50" />
+<img style="margin: 10px" src="https://imgur.com/FyPLdA7.png" alt="MySQL" height="50" />
   
 
 </div>
