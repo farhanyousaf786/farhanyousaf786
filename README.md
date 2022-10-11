@@ -17,7 +17,7 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 
   
   
-### Platforms, Frameworks, and Libraries
+### <center>Platforms, Frameworks, and Libraries</center>
   
 <div align="center">
   
