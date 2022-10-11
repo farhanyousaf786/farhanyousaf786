@@ -19,7 +19,6 @@ I am a full-time full-stack App developer 👨‍💻 working remotely since 201
 <div align="center">  
 <img style="margin: 10px" src="https://imgur.com/1Qlko0L.png" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /> 
 <img style="margin: 10px" src="https://imgur.com/hYm7Ot7.png" alt="React" height="50" /> 
 
 </div>
