@@ -103,11 +103,8 @@
 </br>
 
 
+## <div align="left">Favourite Project:</div>  
 
-
-
-
-## Favourite Project
   [Switch App](https://github.com/farhanyousaf786/switch-app) is one of my favourite project. It is basically a 
   socail media platform. The key thing of this platoform is that 
   it is for Memers and Memes. We are in Meme era and this is one of the best market of advertising. Projects's goal is to
