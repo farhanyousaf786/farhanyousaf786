@@ -3,8 +3,12 @@
 🧑‍💻 I am a Full Stack Developer. Having 2+ years of experience in React and Flutter. I focus on developing user friendly applications with responsive user interface. Moreover, I have developed 5 Applications, reached 150k+ Users and 30k+ daily active users.
 
 - 🔭 Currently working on [Switch App](https://github.com/farhanyousaf786/switch-app)    
+-🌐 See My Work: https://farhan-yousaf.herokuapp.com/
+-📧  farhanyousaf1996@gmail.com
+-📞  929-231-8782
 
-- ⚡ Fun fact: I use tabs over spaces :)  
+
+### ⚡ Fun fact: I use tabs over spaces :)  
   
   
 ## <div align="left">Connect with me</div>  
