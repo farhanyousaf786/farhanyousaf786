@@ -5,11 +5,7 @@
 - 🔭 Currently working on [Switch App](https://github.com/farhanyousaf786/switch-app)    
 - 🌐 See My Work: https://farhan-yousaf.herokuapp.com/
 - 📧  farhanyousaf1996@gmail.com
-- 📞  929-231-8782
-
-
-### <div align="center"> ⚡ Fun fact: I use tabs over spaces :)  </div>
-  
+- 📞  929-231-8782  
   
 ## <div align="left">Connect with me</div>  
 
@@ -29,7 +25,9 @@
 </div>  
  
 <br/>  
-  
+
+### <div align="center"> ⚡ Fun fact: I use tabs over spaces :)  </div>
+
   
 ## Skill Set  
   
