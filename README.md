@@ -1,8 +1,6 @@
-###  📍 Being a creative person I prefer the Software Development Industry, so I can utilize my creativity to develop software to resolve real world problems. 
+### Being a creative person I prefer the Software Development Industry, so I can utilize my creativity to develop software to resolve real world problems. 
 
 🧑‍💻 I am a Full Stack Developer. Having 2+ years of experience in React and Flutter. I focus on developing user friendly applications with responsive user interface. Moreover, I have developed 5 Applications, reached 150k+ Users and 30k+ daily active users.
-
-I am a full-time full-stack App developer. Working remotely since 2019 🚀.
 
 - 🔭 Currently working on [Switch App](https://github.com/farhanyousaf786/switch-app)    
 
