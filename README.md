@@ -8,7 +8,7 @@
 - 📞  929-231-8782
 
 
-### ⚡ Fun fact: I use tabs over spaces :)  
+### <div align="center"> ⚡ Fun fact: I use tabs over spaces :)  </div>
   
   
 ## <div align="left">Connect with me</div>  
