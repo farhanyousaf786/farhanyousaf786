@@ -26,8 +26,6 @@
  
 <br/>  
   
-## Skill Set  
-  
   
 ### Platforms, Frameworks, and Libraries:
   
