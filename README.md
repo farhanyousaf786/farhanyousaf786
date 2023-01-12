@@ -93,8 +93,7 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=farhanyousaf786" align="center" /></div> 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 </br>
 <img src="https://komarev.com/ghpvc/?username=farhanyousaf786&&style=flat-square" align="center" />
