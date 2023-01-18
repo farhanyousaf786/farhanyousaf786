@@ -93,8 +93,6 @@
 
 
 ### <div align="center"> ⚡ Fun fact: I use tabs over spaces :)  </div>
-<br/>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>  
 
