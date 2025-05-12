@@ -3,7 +3,7 @@
 
 🔧 As a Full Stack Developer with 6+ years of professional experience, I build scalable and user-friendly **mobile** and **web** applications using **Flutter, React, Node.js, Java, and Kotlin**.
 
-🚀 I have successfully developed and launched **5+ Applications**, reaching **150K+ Users** and **30K+ Daily Active Users**.
+🚀 I have successfully developed and launched **20+ Applications**, reaching **2 Millions+ Users** and **50K+ Daily Active Users**.
 
 🎨 Being a creative person, I thrive in the Software Development industry where I utilize my innovation to solve real-world problems.
 
