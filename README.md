@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farhan Yousaf</h1>
 <h3 align="center">Full Stack Mobile & Web Developer | Flutter, Java, Kotlin, React</h3>
 
-🔧 As a Full Stack Developer with 2+ years of professional experience, I build scalable and user-friendly **mobile** and **web** applications using **Flutter, React, Node.js, Java, and Kotlin**.
+🔧 As a Full Stack Developer with 6+ years of professional experience, I build scalable and user-friendly **mobile** and **web** applications using **Flutter, React, Node.js, Java, and Kotlin**.
 
 🚀 I have successfully developed and launched **5+ Applications**, reaching **150K+ Users** and **30K+ Daily Active Users**.
 
